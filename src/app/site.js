@@ -14,7 +14,7 @@ export const siteConfig = {
   // Token Information
   token: {
     symbol: "$BBG",
-    requiredAmount: 10000,  // OG required token amount
+    requiredAmount: 1000000,  // OG required token amount
   },
 
   // Countdown Configuration
