@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Black Duck DAO',
-  description: 'A DAO organization built on Solana',
+  title: 'Binance Girls Group',
+  description: 'A DAO organization built on BSC, dedicated to AI agent development and applications.',
 }
 
 export default function RootLayout({ children }) {
