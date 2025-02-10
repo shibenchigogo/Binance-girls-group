@@ -186,10 +186,10 @@ const HomePage = () => {
               Binance Girls Group
             </h1>
             <p className="text-xl text-zinc-300 leading-relaxed tracking-wider mb-6">
-              A DAO organization built on BSC, dedicated to AI agent development and applications.
+              A DAO organization built on sol, dedicated to AI agent development and applications.
             </p>
             <div className="text-lg text-pink-400/90 italic tracking-wide font-light mb-8">
-              Building your ultimate AI girl group on BSC blockchain
+              Building your ultimate AI girl group on sol blockchain
             </div>
 
             <div className="flex items-center justify-center gap-4 bg-zinc-900/50 backdrop-blur-sm p-4 rounded-lg border border-pink-800/50">
