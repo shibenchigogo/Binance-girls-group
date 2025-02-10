@@ -3,8 +3,8 @@ export const siteConfig = {
   // Basic Information
   name: "Binance Girls Group",
   title: "Binance Girls Group DAO",
-  description: "A DAO organization built on BSC, dedicated to AI agent development and applications.",
-  slogan: "Building your ultimate AI girl group on BSC blockchain",
+  description: "A DAO organization built on sol, dedicated to AI agent development and applications.",
+  slogan: "Building your ultimate AI girl group on sol blockchain",
 
   // Contract Information
   contract: {
@@ -13,7 +13,7 @@ export const siteConfig = {
 
   // Token Information
   token: {
-    symbol: "$BBG",
+    symbol: "$BGG",
     requiredAmount: 1000000,  // OG required token amount
   },
 
